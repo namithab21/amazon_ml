@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+6ab10eb3b23ba_student_resource/student_resource/dataset/
+
+# Generated output
+6ab10eb3b23ba_student_resource/student_resource/output/
+
+# macOS junk
+.DS_Store
+__MACOSX/
+._*
+
+# Jupyter
+.ipynb_checkpoints/
